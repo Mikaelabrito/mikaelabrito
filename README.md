@@ -1,4 +1,4 @@
-### Hi people! I'm Mikaela Brito 👋
+### Hi! I'm Mikaela Brito 👋
 
 - 🔭 I’m currently working at IATec how to Front-end Developer
 - 🌱 I have experience with Angular, HTML, CSS and JavaScript
