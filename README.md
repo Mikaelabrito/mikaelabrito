@@ -12,6 +12,7 @@ Some call me Mika.
   <img align="center" alt="Mika-Vue" height="30" width="40" src="https://user-images.githubusercontent.com/57332512/176021468-f1a4accc-cd8e-49bf-8221-12d769b1bec6.svg">
   <img align="center" alt="Mika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mika-npm" height="30" width="=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 </div>
 
   ##
