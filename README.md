@@ -2,7 +2,7 @@
 Some call me Mika.
  
 - 🔭 I’m currently working at IATec how to Front-end Developer
-- 🌱 I have experience with Angular, VueJS, HTML, CSS, Typescrip and JavaScript
+- 🌱 I have experience with Angular, VueJS, React, Typescrip and JavaScript
 - ⚡ Fun fact: I can only program while listening to music
 
 <div style="display: inline_block" align="center"><br>
